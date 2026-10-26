@@ -1,0 +1,3 @@
+#9. Replace all spaces in a string with hyphens(-).
+str = input("Enter a string: ")
+print(str.replace("","_"))
